@@ -1,2 +1,3 @@
-# existing-digitally-media-identity-and-intellectual-property
-This is working talk for Emerson College.
+# Existing Digitally: Media, Identity, and Intellectual Property
+
+This is a workshop for Emerson College, September 10, 2015.
